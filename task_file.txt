@@ -1,3 +1,7 @@
 first_ws=1
 change 1
+<<<<<<< HEAD
 change 3
+=======
+change 2
+>>>>>>> 1c8950c67b4a471306c6fb5eda220259ad99c66c
