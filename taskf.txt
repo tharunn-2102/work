@@ -1,5 +1,9 @@
 first change 1
+<<<<<<< Updated upstream
 
 third change3
 second change 2
 
+=======
+third change 3
+>>>>>>> Stashed changes
